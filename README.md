@@ -27,4 +27,4 @@ My name is Pergentino Galang. I currently live in the Philippines!
 
 [github]: https://github.com/pergent19
 [website]: https://pergent.netlify.app/
-[cv]: https://drive.google.com/file/d/1wB8q9X9o4PjJMB1_JPzGuCOJxZ-LuCAi/view?usp=drive_link
+[cv]: https://drive.google.com/file/d/1a-vxCAGD9UTb-UtSK_he_fFfkjzw_Odj/view?usp=sharing
